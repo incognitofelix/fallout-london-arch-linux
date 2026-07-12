@@ -357,3 +357,7 @@ What this repo adds: it's **Arch-specific** (`multilib`, `paru`, `lib32-gcc-libs
 gamepad lock, tofu/translation trap) that are missing or scattered elsewhere.
 
 *Not an official Team FOLON or Bethesda product. You need legally owned copies of the games.*
+
+## License
+
+MIT — see [LICENSE](LICENSE).
